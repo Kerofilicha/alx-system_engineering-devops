@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "/my_first_directory/" read /tmp/
+echo "/tmp/" /my_first_directory/
