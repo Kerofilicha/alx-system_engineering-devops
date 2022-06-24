@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp hello school
+mkdir --mode=751 my_dir
